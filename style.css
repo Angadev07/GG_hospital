@@ -3,8 +3,8 @@ body {
 }
 /* SECTION 1 */
 .first_section {
-  background-color: rgb(216, 228, 239);
   height: 41px;
+  background-color: rgb(216, 228, 239);
 }
 .section_1 {
   display: flex;
